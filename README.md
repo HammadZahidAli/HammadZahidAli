@@ -5,12 +5,9 @@ Aspiring Cyber Security Professional.
 I am a mobile apps and games product manager with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
 My journey in computer science and IT Mobile Game Manager has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join cyber security domain.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|

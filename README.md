@@ -4,7 +4,7 @@
 Cybersecurity Enthusiast | Mobile Apps & Games PM bringing analytical and strategic thinking to security | Future Cyber Pro
 
 ## Objective
-My journey in computer science and IT Mobile Game Manager has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join cyber security domain.
+Seeking a challenging and rewarding opportunity in the cybersecurity domain, where my background in Computer Science and IT Mobile App & Game Management can be utilized to enhance security practices and address evolving threats.
 
 ## Skills
 

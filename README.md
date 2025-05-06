@@ -1,8 +1,8 @@
 # Hello, I'm HAMMAD ZAHID
 <a href="https://www.linkedin.com/in/hammad-zahid/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Aspiring Cyber Security Professional.
-I am a mobile apps & games product manager with a profound interest in technology and a dedication to solving complex problems.
+Cybersecurity Enthusiast | Mobile Apps & Games PM bringing analytical and strategic thinking to security.
+Future Cyber Pro
 
 ## Objective
 My journey in computer science and IT Mobile Game Manager has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join cyber security domain.

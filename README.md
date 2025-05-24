@@ -16,6 +16,9 @@ Seeking a challenging and rewarding opportunity in the cybersecurity domain, whe
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Linux for Cybersecurity | Linux Lab|
+
+
 
 ## Tools
 

@@ -10,6 +10,7 @@ Seeking a challenging and rewarding opportunity in the cybersecurity domain, whe
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| SOC Lab Malware Test                  | <a href="[https://google.com](https://medium.com/@hammad-zahid/basic-soc-lab-setup-on-virtualbox-win10-11-kali-linux-0723f55ae99f)">Detection Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|

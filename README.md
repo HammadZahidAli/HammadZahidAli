@@ -65,7 +65,7 @@ Currently working as a Product Manager in the mobile apps & games industry. Pass
 ### 🧪 Detection Lab
 Set up a basic SOC lab on VirtualBox using Windows 10/11 and Kali Linux. Focused on malware simulation, log forwarding, SIEM integration, and threat detection.
 - 🔗 [Medium Blog](https://medium.com/@hammad-zahid/basic-soc-lab-setup-on-virtualbox-win10-11-kali-linux-0723f55ae99f)
-- Tools: Wazuh, Winlogbeat, Elastic Stack
+
 
 ### ⚙️ SOC Automation Project
 Created an automated workflow for incident detection, case creation (TheHive), and enrichment using SOAR (Shuffle).

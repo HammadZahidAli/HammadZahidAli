@@ -2,10 +2,10 @@
 
 <a href="https://www.linkedin.com/in/hammad-zahid/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@hammad-zahid"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>
-<a href="https://tryhackme.com/p/hammadzahid"><img src="https://img.shields.io/badge/TryHackMe-220+_Day_Streak-red?style=flat-square&logo=tryhackme&logoColor=white"/></a>
+<a href="https://tryhackme.com/p/hammadzahid"><img src="https://img.shields.io/badge/TryHackMe-220+_Day_Streak-green?style=flat-square&logo=tryhackme&logoColor=white"/></a>
 
 🎯 **Cybersecurity Enthusiast** | **Product Manager (Mobile Games)**  
-🔐 Transitioning into GRC & SOC | Hands-on with SIEM, Risk, and Detection Labs  
+🔐 Transitioning into GRC | Cybersecurity | Hands-on with SIEM, Risk, and Detection Labs  
 📍 Actively exploring global cybersecurity opportunities (Remote / On-site)
 
 

@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Hammad Zahid**
+# Hello, I'm **Hammad Zahid**
 
 <a href="https://www.linkedin.com/in/hammad-zahid/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@hammad-zahid"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>

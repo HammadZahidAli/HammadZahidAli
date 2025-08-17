@@ -14,6 +14,14 @@
 
 Currently working as a Product Manager in the mobile apps & games industry. Passionately transitioning into cybersecurity to contribute to defensive security teams in areas like GRC, SOC, and cloud security. My background in software, leadership, and strategic thinking gives me a strong edge in threat modeling, risk assessment, and operational security.
 
+## 📜 Certifications
+
+| Certification | Issuing Body | Status |
+|---------------|--------------|--------|
+| ✅ SC-900: Microsoft Security, Compliance, and Identity Fundamentals | Microsoft | [View](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-900/) |
+| ✅ Google Cybersecurity Certificate | Google/Coursera | [View](https://www.coursera.org/professional-certificates/google-cybersecurity) |
+| 🎯 EduQual Level 3 Diploma in Cybersecurity | AlNafi | In Progress |
+| ⏳ CompTIA Security+ (Planned) | CompTIA | 2025 |
 
 
 ## 🧠 Skills & Labs
@@ -49,18 +57,11 @@ Currently working as a Product Manager in the mobile apps & games industry. Pass
 
 
 
-## 📜 Certifications
-
-| Certification | Issuing Body | Status |
-|---------------|--------------|--------|
-| ✅ SC-900: Microsoft Security, Compliance, and Identity Fundamentals | Microsoft | [View](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-900/) |
-| ✅ Google Cybersecurity Certificate | Google/Coursera | [View](https://www.coursera.org/professional-certificates/google-cybersecurity) |
-| 🎯 EduQual Level 3 Diploma in Cybersecurity | AlNafi | In Progress |
-| ⏳ CompTIA Security+ (Planned) | CompTIA | 2025 |
-
-
 
 ## 📂 Projects
+
+### 📈 GRC Project
+Risk Register, Incident Response Plan (IRP), and Acceptable Use Policy (AUP) based on ISO 27001 and NIST standards. GitHub + PDF documentation being uploaded soon.
 
 ### 🧪 Detection Lab
 Set up a basic SOC lab on VirtualBox using Windows 10/11 and Kali Linux. Focused on malware simulation, log forwarding, SIEM integration, and threat detection.
@@ -72,8 +73,6 @@ Created an automated workflow for incident detection, case creation (TheHive), a
 - Tools: Shuffle, TheHive, Cortex, Python scripts
 - Outcome: Simulated an automated phishing alert lifecycle
 
-### 📈 GRC Project (Coming Soon)
-Risk Register, Incident Response Plan (IRP), and Acceptable Use Policy (AUP) based on ISO 27001 and NIST standards. GitHub + PDF documentation being uploaded soon.
 
 
 
